@@ -39,7 +39,7 @@ return [
 ];
 ```
 
-If querying only partial Country data is required, yii2-geoip can be used instead and is lighter in terms of repo size, see [dpodium/yii2-geoip](httpshttps://github.com/dpodium/yii2-geoip).
+If querying only partial Country data is required, yii2-geoip can be used instead and is lighter in terms of repo size, see [dpodium/yii2-geoip](https://github.com/dpodium/yii2-geoip).
 
 For more information on the data availability, see below.
 
