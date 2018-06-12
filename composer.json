@@ -1,0 +1,22 @@
+{
+    "name": "dpodium/yii2-geoip-city-db",
+    "description": "Yii2 Component to allow for easy usage of the MaxMind Free dbs.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","geoip","maxmind"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darren Ng",
+            "email": "darren.ng@dpodium.com",
+            "homepage": "http://www.dpodium.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "support": {
+        "source": "https://github.com/dpodium/yii2-geoip-city-db",
+        "issues": "https://github.com/dpodium/yii2-geoip-city-db/issues"
+    },
+    "require": {
+        "dpodium/yii2-geoip": "~2.0"
+    }
+}
